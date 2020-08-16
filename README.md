@@ -20,7 +20,7 @@
 
 Howdy, I'm Nahua, a self-taught software engineer living in Berlin.
 
-<img align="left" alt="TwentyBN" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/20bn.svg" style="background-color:gray;"/> I work full-time at [TwentyBN](https://20bn.com/), a deep-learning company.
+<img align="left" alt="TwentyBN" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/20bn.svg" style="background-color:black;"/> I work full-time at [TwentyBN](https://20bn.com/), a deep-learning company.
 
 <img align="left" alt="OpenMined" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/openmined.svg"/> I contribute to [OpenMined](https://www.openmined.org/), specifically [PyGrid](https://github.com/OpenMined/PyGrid) and [Syft.JS](https://github.com/OpenMined/syft.js).
 
