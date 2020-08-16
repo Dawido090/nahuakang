@@ -9,7 +9,7 @@
   <img align="left" alt="Nahua's Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/nahuakang/">
-  <img align="left" alt="Nahua's LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img align="left" alt="Nahua's LinkedIn" width="21px" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="https://www.nahua.dev/">
   <img align="left" alt="Nahua's Personal Blog" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg"/>
@@ -36,6 +36,7 @@ Howdy, I'm Nahua, a self-taught software engineer living in Berlin.
 <code><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>
 <code><img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
 
 *NOTE: The top languages are a Github metric of the most frequent languages found on my Github repositories. It does not necessarily reflect my proficiency in the language.*
 
