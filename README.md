@@ -42,5 +42,5 @@ Howdy, I'm Nahua, a self-taught software engineer living in Berlin.
   <img align="center" src="https://github-readme-stats.nahua.vercel.app/api?username=nahuakang&show_icons=true&include_all_commits=true&theme=gruvbox" alt="Nahua's Github stats"/>
 </a>
 <a href="https://github.com/nahuakang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.nahua.vercel.app/api/top-langs/?username=nahuakang&layout=compact&theme=gruvbox"/>
+  <img align="center" src="https://github-readme-stats.nahua.vercel.app/api/top-langs/?username=nahuakang&hide=jupyter%20notebook,html&layout=compact&theme=gruvbox"/>
 </a>
