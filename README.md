@@ -9,7 +9,7 @@
   <img align="left" alt="Nahua's Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/nahuakang/">
-  <img align="left" alt="Nahua's LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svgg"/>
+  <img align="left" alt="Nahua's LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="https://www.nahua.dev/">
   <img align="left" alt="Nahua's Personal Blog" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg"/>
@@ -20,7 +20,7 @@
 
 Howdy, I'm Nahua, a self-taught software engineer living in Berlin.
 
-<img align="left" alt="TwentyBN" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/20bn.svg"/> I work full-time at [TwentyBN](https://20bn.com/), a deep-learning company.
+<img align="left" alt="TwentyBN" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/20bn.svg" style="background-color:gray;"/> I work full-time at [TwentyBN](https://20bn.com/), a deep-learning company.
 
 <img align="left" alt="OpenMined" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/openmined.svg"/> I contribute to [OpenMined](https://www.openmined.org/), specifically [PyGrid](https://github.com/OpenMined/PyGrid) and [Syft.JS](https://github.com/OpenMined/syft.js).
 
