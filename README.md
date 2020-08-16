@@ -1,4 +1,4 @@
-### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
+### 👋 Howdy, I'm [Nahua!](https://www.nahua.dev/)
 
 <a href="https://twitter.com/nahuakang">
   <img align="left" alt="Nahua's Twitter" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/twitter.svg" />
