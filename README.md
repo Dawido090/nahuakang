@@ -23,17 +23,11 @@
 
 Howdy, I'm Nahua, a self-taught software engineer living in Berlin.
 
-<img align="left" alt="TwentyBN" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/twentybn.svg" style="background-color:black;"/> I work full-time at [TwentyBN](https://20bn.com/), a deep-learning company.
+<img align="left" alt="TwentyBN" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/twenty-bn.svg" style="background-color:black;"/> I work full-time at [TwentyBN](https://20bn.com/), a deep-learning company.
 
 <img align="left" alt="OpenMined" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/openmined.svg"/> I contribute to [OpenMined](https://www.openmined.org/), specifically [PyGrid](https://github.com/OpenMined/PyGrid) and [Syft.JS](https://github.com/OpenMined/syft.js).
 
 ### Languages and Tools:
-
-<!-- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code> -->
 
 <code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>
@@ -45,8 +39,8 @@ Howdy, I'm Nahua, a self-taught software engineer living in Berlin.
 
 
 <a href="https://github.com/nahuakang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.nahua.vercel.app//api?username=nahuakang&show_icons=true&include_all_commits=true&theme=gruvbox" alt="Nahua's Github stats"/>
+  <img align="center" src="https://github-readme-stats.nahua.vercel.app/api?username=nahuakang&show_icons=true&include_all_commits=true&theme=gruvbox" alt="Nahua's Github stats"/>
 </a>
 <a href="https://github.com/nahuakang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.nahua.vercel.app/api/top-langs/?username=nahuakang&layout=compact&theme=gruvbox&hide=jupyter%20notebook,html"/>
+  <img align="center" src="https://github-readme-stats.nahua.vercel.app/api/top-langs/?username=nahuakang&layout=compact&theme=gruvbox"/>
 </a>
