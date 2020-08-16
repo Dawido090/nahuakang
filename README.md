@@ -14,6 +14,9 @@
 <a href="https://www.nahua.dev/">
   <img align="left" alt="Nahua's Personal Blog" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg"/>
 </a>
+<a href="https://medium.com/@nahua">
+  <img align="left" alt="Nahua's Medium" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
+</a>
 
 <br />
 <br />
