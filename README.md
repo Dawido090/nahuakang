@@ -21,7 +21,7 @@
 <br />
 <br />
 
-Howdy, I'm Nahua, a self-taught software engineer living in Berlin.
+I am a self-taught software engineer living in Berlin.
 
 <img align="left" alt="TwentyBN" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/twenty-bn.svg" style="background-color:black;"/> I work full-time at [TwentyBN](https://20bn.com/), a deep-learning company.
 
