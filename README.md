@@ -23,11 +23,11 @@
 
 I am a self-taught software engineer living in Berlin.
 
-<img align="left" alt="TwentyBN" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/twenty-bn.svg" style="background-color:black;"/> I work full-time at [TwentyBN](https://20bn.com/), a deep-learning company. I also contribute to our open source [realtimenet project](https://github.com/TwentyBN/20bn-realtimenet).
+<img align="left" alt="TwentyBN" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/twenty-bn.svg" style="background-color:black;"/> I work full-time at [TwentyBN](https://20bn.com/), a deep-learning company. I also contribute to our open source project [Sense](https://github.com/TwentyBN/sense).
 
 <img align="left" alt="OpenMined" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/openmined.svg"/> I contribute to [OpenMined](https://www.openmined.org/), specifically [PyGrid](https://github.com/OpenMined/PyGrid) and [Syft.JS](https://github.com/OpenMined/syft.js).
 
-<img align="left" alt="OpenMined" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/rust.svg"/> Additionally, I am learning Rust and have started contributing to [Rust Clippy](https://github.com/rust-lang/rust-clippy).
+<img align="left" alt="OpenMined" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/rust.svg"/> Additionally, I am learning Rust and have started contributing to [Veloren](https://gitlab.com/veloren/veloren) and [Rust Clippy](https://github.com/rust-lang/rust-clippy).
 
 ### Languages and Tools:
 <!-- https://github.com/Ileriayo/markdown-badges -->
