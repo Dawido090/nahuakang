@@ -21,22 +21,24 @@
 <br />
 <br />
 
-I am a self-taught software engineer living in Berlin.
+With previous experiences in business management and product marketing, I am a programmer, product engineer, and marketer who contributes to building products from multiple angles. I have a solution-oriented mindset and an insatiable curiosity for how things work. I write mostly Python and have developed a strong passion for Rust recently.
 
-<img align="left" alt="TwentyBN" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/twenty-bn.svg" style="background-color:black;"/> I work full-time at [TwentyBN](https://20bn.com/), a deep-learning company. I also contribute to our open source project [Sense](https://github.com/TwentyBN/sense).
+<img align="left" alt="TwentyBN" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/twenty-bn.svg" style="background-color:black;"/> Currently, I work full-time at [TwentyBN](https://20bn.com/), a deep-learning and fitness company. I also contribute to our open source project [Sense](https://github.com/TwentyBN/sense).
 
-<img align="left" alt="OpenMined" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/openmined.svg"/> I contribute to [OpenMined](https://www.openmined.org/), specifically [PySyft](https://github.com/OpenMined/PySyft), [PyGrid](https://github.com/OpenMined/PyGrid) and [Syft.JS](https://github.com/OpenMined/syft.js).
+<img align="left" alt="OpenMined" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/openmined.svg"/> In my spare time, I contribute to [OpenMined](https://www.openmined.org/), specifically [PySyft](https://github.com/OpenMined/PySyft), [PyGrid](https://github.com/OpenMined/PyGrid) and [Syft.JS](https://github.com/OpenMined/syft.js). OpenMined strives to make the world better by unlocking the power of data for AI in a privacy-preserving manner.
 
 <img align="left" alt="OpenMined" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/rust.svg"/> Additionally, I am learning Rust and have started contributing to [Veloren](https://gitlab.com/veloren/veloren) and [Rust Clippy](https://github.com/rust-lang/rust-clippy).
+
+Additionally, I have contributed as a mentor on Exercism for the Rust, Python, and Go language tracks.
 
 ### Languages and Tools:
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
-<code><img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>
+<code><img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></code>
