@@ -21,7 +21,9 @@
 <br />
 <br />
 
-With previous experiences in business management and product marketing, I am a programmer, product engineer, and marketer who contributes to building products from multiple angles. I have a solution-oriented mindset and an insatiable curiosity for how things work. I write mostly Python and have developed a strong passion for Rust recently.
+**Software engineer** and **writer** with an [unconventional path to programming](https://www.nahua.dev/posts/my-path-to-programming/), an insatiable curiosity to learn and a strong determination to solve mysteries. I am passionate about open source software and privacy-preserving AI. While I am language-agnostic, I especially love [Rust](https://www.rust-lang.org/) and [Python](https://www.python.org/).
+
+With a background in product and marketing, I am familiar with the SCRUM methodology and strive to empower my team and ship the best product to our users.
 
 <img align="left" alt="TwentyBN" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/twenty-bn.svg" style="background-color:black;"/> Currently, I work full-time at [TwentyBN](https://20bn.com/), a deep-learning and fitness company. I also contribute to our open source project [Sense](https://github.com/TwentyBN/sense).
 
