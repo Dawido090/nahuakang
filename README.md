@@ -25,7 +25,7 @@
 
 With a background in product and marketing, I am familiar with the SCRUM methodology and strive to empower my team and ship the best product to our users.
 
-<img align="left" alt="TwentyBN" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/twenty-bn.svg" style="background-color:black;"/> Currently, I work full-time at [Actio](https://www.actio.com/en/). Previously, I worked at [TwentyBN](https://20bn.com/) and contributed to TwentyBN's open source project [Sense](https://github.com/TwentyBN/sense).
+<img align="left" alt="Actio" width="21px" src="https://user-images.githubusercontent.com/18533347/117645397-d3af0d00-b18a-11eb-80d3-90547f6e209c.png" style="background-color:black;"/> Currently, I work full-time at [Actio](https://www.actio.com/en/). Previously, I worked at [TwentyBN](https://20bn.com/) and contributed to TwentyBN's open source project [Sense](https://github.com/TwentyBN/sense).
 
 <img align="left" alt="OpenMined" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/openmined.svg"/> In my spare time, I contribute to [OpenMined](https://www.openmined.org/), specifically [PySyft](https://github.com/OpenMined/PySyft), [PyGrid](https://github.com/OpenMined/PyGrid) and [Syft.JS](https://github.com/OpenMined/syft.js). OpenMined strives to make the world better by unlocking the power of data for AI in a privacy-preserving manner.
 
