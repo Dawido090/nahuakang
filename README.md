@@ -48,13 +48,3 @@ Additionally, I have contributed as a mentor on Exercism for the Rust, Python, a
 <code><img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/></code>
 <code><img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/></code>
 <code><img alt="SASS" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/></code>
-
-*NOTE: The top languages are a Github metric of the most frequent languages found on my Github repositories. It does not necessarily reflect my proficiency in the language.*
-
-
-<a href="https://github.com/nahuakang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.nahua.vercel.app/api?username=nahuakang&show_icons=true&include_all_commits=true&theme=dark" alt="Nahua's Github stats"/>
-</a>
-<a href="https://github.com/nahuakang/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.nahua.vercel.app/api/top-langs/?username=nahuakang&layout=compact&theme=dark"/>
-</a>
