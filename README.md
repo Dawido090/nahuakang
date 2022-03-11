@@ -21,7 +21,7 @@
 <br />
 <br />
 
-**Software engineer** and **writer** with an [unconventional path to programming](https://www.nahua.dev/posts/my-path-to-programming/), an insatiable curiosity to learn and a strong determination to solve mysteries. I am passionate about open source software and privacy-preserving AI. While I am language-agnostic, I especially love [Rust](https://www.rust-lang.org/) and [Python](https://www.python.org/).
+**Software engineer** and **writer** with an [unconventional path to programming](https://www.nahua.dev/posts/my-path-to-programming/), an insatiable curiosity to learn and a strong determination to solve mysteries. I am passionate about open source software and privacy-preserving AI. While I am language-agnostic, I especially enjoying building projects with [Rust](https://www.rust-lang.org/), [Python](https://www.python.org/) and [Go](https://go.dev/).
 
 With a background in product and marketing, I am familiar with the SCRUM methodology and strive to empower my team and ship the best product to our users.
 
