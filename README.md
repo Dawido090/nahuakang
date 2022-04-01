@@ -29,7 +29,7 @@ With a background in product and marketing, I am familiar with the SCRUM methodo
 
 <img align="left" alt="OpenMined" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/openmined.svg"/> In my spare time, I contribute to [OpenMined](https://www.openmined.org/), specifically [PySyft](https://github.com/OpenMined/PySyft), [PyGrid](https://github.com/OpenMined/PyGrid) and [Syft.JS](https://github.com/OpenMined/syft.js). OpenMined strives to make the world better by unlocking the power of data for AI in a privacy-preserving manner.
 
-<img align="left" alt="OpenMined" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/rust.svg"/> I am learning the ropes in Rust open source projects such as [Rust Clippy](https://github.com/rust-lang/rust-clippy) and [Veloren](https://gitlab.com/veloren/veloren).
+<img align="left" alt="OpenMined" width="21px" src="https://raw.githubusercontent.com/nahuakang/nahuakang/master/assets/rust.svg"/> I am learning the ropes in Rust open source projects such as [Rust Clippy](https://github.com/rust-lang/rust-clippy).
 
 Additionally, I have contributed as a mentor on Exercism for the Rust, Python, and Go language tracks.
 
