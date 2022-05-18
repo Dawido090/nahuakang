@@ -1,6 +1,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/nahuakang?logo=github&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/nahuakang?color=%231DA1F2&logo=Twitter&logoColor=%231DA1F2&style=for-the-badge)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/nahuak?logo=reddit&style=for-the-badge)
 ![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
 
 ### 👋 Howdy, I'm [Nahua!](https://www.nahua.dev/)
@@ -21,13 +20,15 @@
 <br />
 <br />
 
-**Purpose-driven** software engineer and writer with an [unconventional path to programming](https://www.nahua.dev/posts/my-path-to-programming/), an insatiable curiosity to learn and strong leadership skills to solve business problems and deliver user value. I am passionate about open source software and have contributed to open source projects such as [OpenMined](https://www.openmined.org/) and [Rust Clippy](https://github.com/rust-lang/rust-clippy).
+**Purpose-driven** software engineer and writer with an [unconventional path to programming](https://www.nahua.dev/posts/my-path-to-programming/), an insatiable curiosity to learn and strong leadership skills to solve business problems and deliver user value.
 
-I am familiar with **agile development**, **Scrum** methodology, Python and Go ecosystem, Linux, container orchestration, cloud infrastructure, and CI/CD pipeline. I adhere to **Test-Driven Development** (TDD) and the [**Twelve-Factor App**](https://12factor.net/) methodology to empower my team and deliver user value.
+I am passionate about open source software and have contributed to open source projects such as [OpenMined](https://www.openmined.org/). Currently I am contributing to SeaQL's [SeaORM](https://github.com/SeaQL/sea-orm) and [Rust Clippy](https://github.com/rust-lang/rust-clippy). I'm interested in and hope to contribute to [shuttle](https://github.com/shuttle-hq/shuttle) and [axum](https://github.com/tokio-rs/axum).
 
-I especially enjoying building projects with [Rust](https://www.rust-lang.org/), [Python](https://www.python.org/) and [Go](https://go.dev/).
+Besides, I am a mentor and contributor to [Exercism](https://exercism.org/) for the [Rust](https://exercism.org/tracks/rust) and [Go](https://exercism.org/tracks/go) tracks. I help students improve their understandings of the languages as well as design and improve educational content and exercises.
 
-Additionally, I have contributed as a mentor on Exercism for the Rust, Python, and Go language tracks.
+Familiar with **agile development**, **Scrum** methodology, Python and Go ecosystem, Linux, container orchestration, cloud infrastructure, and CI/CD pipeline, I adhere to **Test-Driven Development** (TDD) and the [**Twelve-Factor App**](https://12factor.net/) methodology to empower my team and deliver user value.
+
+❤️ [Rust](https://www.rust-lang.org/) 🦀, [Python](https://www.python.org/) 🐍 and [Go](https://go.dev/) 🐭
 
 ### Languages and Tools:
 <!-- https://github.com/Ileriayo/markdown-badges -->
