@@ -22,7 +22,7 @@
 
 **Purpose-driven** software engineer and writer with an [unconventional path to programming](https://www.nahua.dev/posts/my-path-to-programming/), an insatiable curiosity to learn and strong leadership skills to solve business problems and deliver user value.
 
-I am passionate about open source software and have contributed to open source projects such as [Rust Clippy](https://github.com/rust-lang/rust-clippy) and [OpenMined](https://www.openmined.org/). Currently I am contributing to SeaQL's [SeaORM](https://github.com/SeaQL/sea-orm) and [shuttle](https://github.com/shuttle-hq/shuttle). I'm interested in and hope to contribute to [axum](https://github.com/tokio-rs/axum).
+I am passionate about open source software and have contributed to open source projects such as [Rust Clippy](https://github.com/rust-lang/rust-clippy) and [OpenMined](https://www.openmined.org/). Currently I am contributing to [SeaORM](https://github.com/SeaQL/sea-orm) and [shuttle](https://github.com/shuttle-hq/shuttle). I'm interested in and hope to contribute to [axum](https://github.com/tokio-rs/axum).
 
 Besides, I am a mentor and contributor to [Exercism](https://exercism.org/) for the [Rust](https://exercism.org/tracks/rust) and [Go](https://exercism.org/tracks/go) tracks. I help students improve their understandings of the languages as well as design and improve educational content and exercises.
 
