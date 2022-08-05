@@ -26,9 +26,9 @@ I am passionate about open source software and have contributed to open source p
 
 Besides, I am a mentor and contributor to [Exercism](https://exercism.org/) for the [Rust](https://exercism.org/tracks/rust) and [Go](https://exercism.org/tracks/go) tracks. I help students improve their understandings of the languages as well as design and improve educational content and exercises.
 
-Familiar with **agile development**, **Scrum** methodology, Python and Go ecosystem, Linux, container orchestration, cloud infrastructure, and CI/CD pipeline, I adhere to **Test-Driven Development** (TDD) and the [**Twelve-Factor App**](https://12factor.net/) methodology to empower my team and deliver user value.
+Familiar with **agile development**, **Scrum** methodology, Rust, Python, Ruby, and Go ecosystem, Linux, container orchestration, cloud infrastructure, and CI/CD pipeline, I adhere to **Test-Driven Development** (TDD) and the [**Twelve-Factor App**](https://12factor.net/) methodology to empower my team and deliver user value.
 
-❤️ [Rust](https://www.rust-lang.org/) 🦀, [Python](https://www.python.org/) 🐍 and [Go](https://go.dev/) 🐭
+See the list of my [open source commits](https://www.nahua.dev/commits/) to see what projects I'm active on.
 
 ### Languages and Tools:
 <!-- https://github.com/Ileriayo/markdown-badges -->
